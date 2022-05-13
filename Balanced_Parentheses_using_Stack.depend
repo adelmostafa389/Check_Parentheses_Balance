@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1652477558 source:g:\adel\0 self study\embedded systems\sprints\es booster l1\tasks\balanced_parentheses_using_stack\main.c
+	<stdio.h>
+	<stdlib.h>
+	"TYPES.H"
+
+1652462302 g:\adel\0 self study\embedded systems\sprints\es booster l1\tasks\balanced_parentheses_using_stack\types.h
+
